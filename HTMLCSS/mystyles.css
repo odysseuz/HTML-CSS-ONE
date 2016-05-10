@@ -1,0 +1,41 @@
+<style>
+body {
+    background-color: white;
+}
+
+
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+#nav {
+    line-height:10px;
+    background-color:#D89B9B;
+  	height: 150px;
+	width: 1000px;
+    padding:10px; 
+    margin: auto;
+  
+}
+#p1{
+	text-align: left;
+}
+#p2{
+	
+}
+#p3{
+
+}
+#p4{
+	 text-align: right;
+}
+#Box {
+	background-color: #FF4B4B;
+	height: 1000px;
+	width: 1000px;
+	padding: 10px;
+	margin: auto;
+	opacity: 0.6;
+	
+}
+</style>
