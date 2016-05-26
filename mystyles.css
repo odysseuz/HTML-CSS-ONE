@@ -1,0 +1,68 @@
+.Button1{
+  border: 10px #444444 solid;
+  border-radius: 5px;
+  background: white;
+  color:red;
+  width: 100px;
+  height:40px;
+  text-align:center;
+  display:inline-block;
+  padding:10px;
+  float:left;
+  margin: 5px;
+  margin-left:20px;
+}
+.Button1:hover{
+  background: black;
+  color:white;
+
+
+}
+#header {
+  line-height:10px;
+  background-color: #1a0033;
+
+  height: 175px;
+  width: 1050px;
+  padding:10px;
+  margin: auto;
+}
+
+body{
+  background-image: url("giphy.gif");
+
+}
+
+
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+#nav {
+    line-height:10px;
+    background-color:  #4d0099;
+    opacity: 0.6;
+  	height: 100px;
+  	width: 1050px;
+    padding:10px;
+    margin: auto;
+
+}
+
+#Box {
+	background-color:  #B990D4;
+	height: 1100px;
+	width: 1050px;
+	padding: 10px;
+	margin: auto;
+
+
+}
+#footer{
+  background-color:  #6600cc;
+	height: 105px;
+	width: 1050px;
+	padding: 10px;
+	margin: auto;
+	opacity: 0.6;
+}
