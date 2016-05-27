@@ -18,6 +18,13 @@
 
 
 }
+.gif{
+  display:inline-block;
+  padding:10px;
+  float:left;
+  margin: 5px;
+  margin-left:20px;
+}
 #header {
   line-height:10px;
     background-color:   #003300;
