@@ -1,8 +1,8 @@
 .Button1{
   border: 10px #444444 solid;
   border-radius: 5px;
-  background: white;
-  color:red;
+  background: #000000;
+  color:#00ff00;
   width: 100px;
   height:40px;
   text-align:center;
@@ -13,14 +13,14 @@
   margin-left:20px;
 }
 .Button1:hover{
-  background: black;
-  color:white;
+  background: #00ff00;
+  color:black;
 
 
 }
 #header {
   line-height:10px;
-  background-color: #1a0033;
+    background-color:   #003300;
 
   height: 175px;
   width: 1050px;
@@ -29,7 +29,7 @@
 }
 
 body{
-  background-image: url("giphy.gif");
+  background-image: url("matrix.gif");
 
 }
 
@@ -40,7 +40,7 @@ p {
 }
 #nav {
     line-height:10px;
-    background-color:  #4d0099;
+    background-color:  #006600;
     opacity: 0.6;
   	height: 100px;
   	width: 1050px;
@@ -50,7 +50,7 @@ p {
 }
 
 #Box {
-	background-color:  #B990D4;
+	background-color: 	 #145214;
 	height: 1100px;
 	width: 1050px;
 	padding: 10px;
@@ -59,7 +59,7 @@ p {
 
 }
 #footer{
-  background-color:  #6600cc;
+  background-color:  #00ff00;
 	height: 105px;
 	width: 1050px;
 	padding: 10px;

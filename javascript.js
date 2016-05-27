@@ -1,7 +1,18 @@
-var nums =[9,9,8,8,7,5,5,4,3,2,1];
-var MAX_NUMBERS=10;
+
+
+var MAX_NUMBERS=0;
+var nums =[];
+
+  for(var i = 0; i < MAX_NUMBERS; i++){
+  nums[i]= Math.floor(Math.random()*10);
+  }
+
+
+
 function getValue(){
+nums.sort();
   document.write(nums);
+
 }
 function Average(){
   var total = 0;
