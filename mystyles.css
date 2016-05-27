@@ -58,6 +58,9 @@ p {
 
 #Box {
 	background-color: 	 #145214;
+  font-family: "Times New Roman";
+  font-size: 20px;
+  color: black;
 	height: 1100px;
 	width: 1050px;
 	padding: 10px;
